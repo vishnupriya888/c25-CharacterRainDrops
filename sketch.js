@@ -4,7 +4,7 @@ var letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcdefghijklmnopqrstuvexyz";
 //  "也 池 驰 馳 弛"
 // 
 function setup()
-{
+{   
     createCanvas(1500,600);
     frameRate(15);
     
