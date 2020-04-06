@@ -13,8 +13,10 @@ aslo, create an array letters[], to add all the characters to display use them i
 
 The output should look like:
 
-
+https://user-images.githubusercontent.com/59869563/78586130-9cb84a80-7858-11ea-9205-a43e1befd07a.png
 
 To create a continuous effect add a rage to my background, from 0 to 100,
 
 The output will look like,
+
+https://user-images.githubusercontent.com/59869563/78586126-9aee8700-7858-11ea-94c6-3460d0be06fb.png
