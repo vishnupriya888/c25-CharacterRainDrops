@@ -17,7 +17,7 @@ function setup()
 function draw()
 {
 
-    background(0);
+    background(0,100);
     for(var i=0;i<drops.length;i++)
     {
         drops[i].draw();
